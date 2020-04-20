@@ -8,4 +8,4 @@ Interested in Vnlife E-cosystem and want to become VNlife-ers to develop valuabl
 
 > Are you Tech guy hard core and very solid with Data? Check out the opportunity at [DataTeam](./DataTeam)
 
-* Interested in the opportunity to work at Vnlife - send a email to career.hn@teko.vn
+> Interested in the opportunity to work at Vnlife - send a email to career.hn@teko.vn
