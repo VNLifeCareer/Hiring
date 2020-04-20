@@ -1,6 +1,6 @@
 ## Data Science
 
-### Minimum Qualification:##
+### Minimum Qualification:
 - Postgraduate degrees in Machine Learning, Statistics, Applied Mathematics, Physics, Industrial Engineering, related technical field, or equivalent practical experience.
 - Publication records in one of the following areas: Deep Learning, Reinforcement Learning, Graph Learning, Recommendation Engines, Statistics or equivalent experience.
 - Having implemented research papers in code.
