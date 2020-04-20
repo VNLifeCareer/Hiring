@@ -1,4 +1,4 @@
-## Data Science
+## Data Scientist
 
 ### Minimum Qualification:
 - Postgraduate degrees in Machine Learning, Statistics, Applied Mathematics, Physics, Industrial Engineering, related technical field, or equivalent practical experience.
