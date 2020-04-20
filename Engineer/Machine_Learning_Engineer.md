@@ -1,6 +1,6 @@
 ## Machine Learning Engineer
 
-### The workMinimum qualification (Levels vary based on experience):
+### Minimum qualification (Levels vary based on experience):
 - Degrees in Computer Science, related technical field, or equivalent practical experience.
 - Experience in at least one of the following areas: Natural Language Understanding, Computer Vision, Reinforcement Learning, Graph Learning, Optimization, Data Mining or Machine Intelligence.
 - Experience in Machine Learning for large datasets, building products, or having implemented research papers in real systems serving millions of users.
