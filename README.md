@@ -6,10 +6,6 @@ Fintech VNPAY is the current forerunner of VNLIFE's subsidiaries. **[VNPAY](http
 
 Interested in Vnlife E-cosystem and want to become VNlife-ers to develop valuable products for Vietnamese people? Teko's development team is constantly working on building a comprehensive product development environment and people are looking for you :)
 
-> Are you an Engineer? Check out the opportunities at [Engineer](./Engineer)
-
-
-> Are you Tech guy hard core and very solid with lead team? Check out the opportunity at [Lead/Principal] (./ Product)
+> Are you Tech guy hard core and very solid with Data? Check out the opportunity at [DataTeam] (./DataTeam)
 
 * Interested in the opportunity to work at Vnlife - send a email to career.hn@teko.vn
-* Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/skype: hoaitrang13
