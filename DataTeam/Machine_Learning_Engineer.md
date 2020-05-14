@@ -30,5 +30,3 @@ Fintech VNPAY is the current forerunner of VNLIFE's subsidiaries. VNPAY is the l
 > Follow these steps to have a highly appreciated document.
 
 > Write an email with the subject line: "Your name apply for the position: Machine Learning Engineer" & attach your latest CV, phone number and your submit. And then, send it to [career.hn@teko.vn](career.hn@teko.vn)
-
-**Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)**
