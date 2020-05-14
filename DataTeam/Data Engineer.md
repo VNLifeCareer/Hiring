@@ -1,6 +1,6 @@
 ### Data Engineering
 
-Teko is looking for a highly motivated hands-on Data engineer. This position is responsible for designing and implementing cluster computing data systems. You'll be collaborating closely with our engineers and must be able to work efficiently across various teams.
+Teko/VNlife is looking for a highly motivated hands-on Data engineer. This position is responsible for designing and implementing cluster computing data systems. You'll be collaborating closely with our engineers and must be able to work efficiently across various teams.
 
 #### Responsibilities
  - Collaborate with multiple teams and build Spark and Storage clusters.
@@ -22,11 +22,6 @@ Teko is looking for a highly motivated hands-on Data engineer. This position is 
  - Experience with Tensorflow
  - Experience with Concourse is a plus
  - Experience with Agile and Scrum
-
-#### Hiring Test
-Download the dataset of taxi trips in New York  https://www.kaggle.com/kentonnlp/2014-new-york-city-taxi-trips
-Build a data pipeline for analytics, produce the results in ELK.
-Bonus: Automate the pipeline with Concourse.
 
 ### Submit your personal document
 > Follow these steps to have a highly appreciated document.
